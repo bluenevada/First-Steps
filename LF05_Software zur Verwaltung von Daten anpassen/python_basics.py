@@ -227,7 +227,7 @@ my_list.append('Python ist cool')
 print(my_list)
 print(my_list_3)
 
-Übung:
+#Übung:
 
 my_list_uebung = ["d", "l", "r", "o", "w", " ", "i", "h", "s", "t"]
 
